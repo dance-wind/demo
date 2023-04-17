@@ -1,6 +1,4 @@
-# test-demo
-
-> A Vue.js project
+# test
 
 ## Project setup
 ```
